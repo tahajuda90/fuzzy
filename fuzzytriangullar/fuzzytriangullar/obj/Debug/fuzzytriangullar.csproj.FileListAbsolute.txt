@@ -1,0 +1,9 @@
+c:\users\tahajuda\documents\visual studio 2015\Projects\fuzzytriangullar\fuzzytriangullar\bin\Debug\fuzzytriangullar.exe.config
+C:\Users\tahajuda\documents\visual studio 2015\Projects\fuzzytriangullar\fuzzytriangullar\bin\Debug\fuzzytriangullar.exe
+C:\Users\tahajuda\documents\visual studio 2015\Projects\fuzzytriangullar\fuzzytriangullar\bin\Debug\fuzzytriangullar.pdb
+C:\Users\tahajuda\documents\visual studio 2015\Projects\fuzzytriangullar\fuzzytriangullar\obj\Debug\fuzzytriangullar.csprojResolveAssemblyReference.cache
+C:\Users\tahajuda\documents\visual studio 2015\Projects\fuzzytriangullar\fuzzytriangullar\obj\Debug\fuzzytriangullar.Form1.resources
+C:\Users\tahajuda\documents\visual studio 2015\Projects\fuzzytriangullar\fuzzytriangullar\obj\Debug\fuzzytriangullar.Properties.Resources.resources
+C:\Users\tahajuda\documents\visual studio 2015\Projects\fuzzytriangullar\fuzzytriangullar\obj\Debug\fuzzytriangullar.csproj.GenerateResource.Cache
+C:\Users\tahajuda\documents\visual studio 2015\Projects\fuzzytriangullar\fuzzytriangullar\obj\Debug\fuzzytriangullar.exe
+C:\Users\tahajuda\documents\visual studio 2015\Projects\fuzzytriangullar\fuzzytriangullar\obj\Debug\fuzzytriangullar.pdb
