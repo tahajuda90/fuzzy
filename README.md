@@ -1,2 +1,2 @@
 # fuzzy
-implementation, fuzzy triangular matlab
+implementation, fuzzy triangular
